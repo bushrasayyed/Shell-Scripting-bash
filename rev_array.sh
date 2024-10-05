@@ -17,4 +17,4 @@ done
 # Print the reversed array
 echo "Original array: ${array[@]}"
 echo "Reversed array: ${reversed[@]}"
-//bash rev_array.sh
+#bash rev_array.sh
